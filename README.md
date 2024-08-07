@@ -1,4 +1,4 @@
 # demo
 trial repo
 <br>
-Author-Sanyam Garg
+Author-Sanyam Garg(Github)
